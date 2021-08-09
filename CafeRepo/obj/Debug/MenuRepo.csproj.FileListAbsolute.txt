@@ -1,0 +1,5 @@
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeRepo\bin\Debug\CafeRepo.dll
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeRepo\bin\Debug\CafeRepo.pdb
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeRepo\obj\Debug\MenuRepo.csproj.CoreCompileInputs.cache
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeRepo\obj\Debug\CafeRepo.dll
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeRepo\obj\Debug\CafeRepo.pdb

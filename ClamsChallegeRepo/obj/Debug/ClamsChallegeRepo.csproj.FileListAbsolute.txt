@@ -1,0 +1,6 @@
+C:\Users\bgbul\source\repos\ClaimsChallenge\ClamsChallegeRepo\bin\Debug\ClamsChallegeRepo.dll
+C:\Users\bgbul\source\repos\ClaimsChallenge\ClamsChallegeRepo\bin\Debug\ClamsChallegeRepo.pdb
+C:\Users\bgbul\source\repos\ClaimsChallenge\ClamsChallegeRepo\obj\Debug\ClamsChallegeRepo.csproj.AssemblyReference.cache
+C:\Users\bgbul\source\repos\ClaimsChallenge\ClamsChallegeRepo\obj\Debug\ClamsChallegeRepo.csproj.CoreCompileInputs.cache
+C:\Users\bgbul\source\repos\ClaimsChallenge\ClamsChallegeRepo\obj\Debug\ClamsChallegeRepo.dll
+C:\Users\bgbul\source\repos\ClaimsChallenge\ClamsChallegeRepo\obj\Debug\ClamsChallegeRepo.pdb

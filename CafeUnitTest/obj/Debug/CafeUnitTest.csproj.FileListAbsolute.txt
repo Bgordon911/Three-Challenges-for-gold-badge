@@ -1,0 +1,16 @@
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeUnitTest\obj\Debug\CafeUnitTest.csproj.AssemblyReference.cache
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeUnitTest\obj\Debug\CafeUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeUnitTest\bin\Debug\CafeUnitTest.dll
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeUnitTest\bin\Debug\CafeUnitTest.pdb
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeUnitTest\bin\Debug\CafeRepo.dll
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeUnitTest\bin\Debug\CafeRepo.pdb
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeUnitTest\obj\Debug\CafeUnitTest.csproj.CopyComplete
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeUnitTest\obj\Debug\CafeUnitTest.dll
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeUnitTest\obj\Debug\CafeUnitTest.pdb

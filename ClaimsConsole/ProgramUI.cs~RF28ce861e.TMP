@@ -1,0 +1,83 @@
+﻿using ClamsChallegeRepo;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Security.Claims;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ClaimsChallenge
+{
+    class ProgramUI
+    {
+        private ClaimsRepo _repo;
+
+        public void Run()
+        {
+
+            Menu();
+        }
+
+        private void Menu()
+        {
+
+            bool keepRunning = true;
+            while (keepRunning)
+            {
+                Console.Clear();
+                Console.WriteLine($"Please choose an option:\n" +
+                    $"1. See all Claims\n" +
+                    $"2. take care of next Claim\n" +
+                    $"3. Enter a new Claim\n" +
+                    $"4. Exit");
+
+                String input = Console.ReadLine();
+                switch (input)
+                {
+                    case "1":
+                        //SeeClaims
+                        SeeAllClaims();
+                        break;
+                    case "2":
+                        //Take care of next claim
+                        //TakeCareNextClaim();
+                        break;
+                    case "3":
+                        //Enter a claim
+                        // EnteraNewClaim();
+                        break;
+                    case "4":
+                        //Exit
+                        keepRunning = false;
+                        break;
+                    default:
+                        Console.WriteLine("Please enter a valid number");
+                        break;
+                }
+
+                Console.WriteLine("Please press any key to continue...");
+                Console.ReadKey();
+                Console.Clear();
+            }
+        }
+        public void SeeAllClaims()
+        {
+            Console.Clear();
+            Queue<Claim> queueofClaims = _repo.GetClaims();
+            foreach(Claim claims in queueofClaims)
+            {
+
+            }
+        }
+
+
+
+
+
+
+
+
+    }
+}
+
+

@@ -1,0 +1,7 @@
+C:\Users\bgbul\source\repos\ClaimsChallenge\ClaimsChallenge\obj\Debug\ClaimsChallenge.csproj.AssemblyReference.cache
+C:\Users\bgbul\source\repos\ClaimsChallenge\ClaimsChallenge\obj\Debug\ClaimsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\bgbul\source\repos\ClaimsChallenge\ClaimsChallenge\bin\Debug\ClaimsChallenge.exe.config
+C:\Users\bgbul\source\repos\ClaimsChallenge\ClaimsChallenge\bin\Debug\ClaimsChallenge.exe
+C:\Users\bgbul\source\repos\ClaimsChallenge\ClaimsChallenge\bin\Debug\ClaimsChallenge.pdb
+C:\Users\bgbul\source\repos\ClaimsChallenge\ClaimsChallenge\obj\Debug\ClaimsChallenge.exe
+C:\Users\bgbul\source\repos\ClaimsChallenge\ClaimsChallenge\obj\Debug\ClaimsChallenge.pdb

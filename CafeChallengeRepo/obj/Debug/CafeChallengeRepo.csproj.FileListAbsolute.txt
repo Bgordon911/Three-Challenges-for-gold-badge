@@ -1,0 +1,6 @@
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeChallengeRepo\bin\Debug\CafeChallengeRepo.dll
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeChallengeRepo\bin\Debug\CafeChallengeRepo.pdb
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeChallengeRepo\obj\Debug\CafeChallengeRepo.csproj.AssemblyReference.cache
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeChallengeRepo\obj\Debug\CafeChallengeRepo.csproj.CoreCompileInputs.cache
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeChallengeRepo\obj\Debug\CafeChallengeRepo.dll
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeChallengeRepo\obj\Debug\CafeChallengeRepo.pdb

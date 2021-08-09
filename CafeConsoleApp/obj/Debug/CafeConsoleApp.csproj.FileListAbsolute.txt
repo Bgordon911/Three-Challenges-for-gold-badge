@@ -1,0 +1,10 @@
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeConsoleApp\bin\Debug\CafeConsoleApp.exe.config
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeConsoleApp\bin\Debug\CafeConsoleApp.exe
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeConsoleApp\bin\Debug\CafeConsoleApp.pdb
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeConsoleApp\obj\Debug\CafeConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeConsoleApp\obj\Debug\CafeConsoleApp.exe
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeConsoleApp\obj\Debug\CafeConsoleApp.pdb
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeConsoleApp\bin\Debug\CafeRepo.dll
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeConsoleApp\bin\Debug\CafeRepo.pdb
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeConsoleApp\obj\Debug\CafeConsoleApp.csproj.AssemblyReference.cache
+C:\Users\bgbul\source\repos\ClaimsChallenge\CafeConsoleApp\obj\Debug\CafeConsoleApp.csproj.CopyComplete

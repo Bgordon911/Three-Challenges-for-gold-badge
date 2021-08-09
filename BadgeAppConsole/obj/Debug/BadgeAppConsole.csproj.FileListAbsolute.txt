@@ -1,0 +1,10 @@
+C:\Users\bgbul\source\repos\ClaimsChallenge\BadgeAppConsole\obj\Debug\BadgeAppConsole.csproj.AssemblyReference.cache
+C:\Users\bgbul\source\repos\ClaimsChallenge\BadgeAppConsole\obj\Debug\BadgeAppConsole.csproj.CoreCompileInputs.cache
+C:\Users\bgbul\source\repos\ClaimsChallenge\BadgeAppConsole\bin\Debug\BadgeAppConsole.exe.config
+C:\Users\bgbul\source\repos\ClaimsChallenge\BadgeAppConsole\bin\Debug\BadgeAppConsole.exe
+C:\Users\bgbul\source\repos\ClaimsChallenge\BadgeAppConsole\bin\Debug\BadgeAppConsole.pdb
+C:\Users\bgbul\source\repos\ClaimsChallenge\BadgeAppConsole\obj\Debug\BadgeAppConsole.exe
+C:\Users\bgbul\source\repos\ClaimsChallenge\BadgeAppConsole\obj\Debug\BadgeAppConsole.pdb
+C:\Users\bgbul\source\repos\ClaimsChallenge\BadgeAppConsole\bin\Debug\BadgeRepo.dll
+C:\Users\bgbul\source\repos\ClaimsChallenge\BadgeAppConsole\bin\Debug\BadgeRepo.pdb
+C:\Users\bgbul\source\repos\ClaimsChallenge\BadgeAppConsole\obj\Debug\BadgeAppConsole.csproj.CopyComplete
